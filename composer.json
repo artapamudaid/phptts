@@ -1,0 +1,21 @@
+{
+    "name": "arta/arta",
+    "description": "Aiden AI TTS",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arta\\Arta\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "artapamudaid",
+            "email": "pamuda.id@gmail.com"
+        }
+    ],
+    "require": {
+
+        "php" : ">=8.0.0",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
